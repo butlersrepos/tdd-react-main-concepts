@@ -1,5 +1,7 @@
+import React from 'react'
+
 function HelloWorld() {
-	return { <h1 /> }
+	return <h1 />
 }
 
-// export HelloWorld
+export default HelloWorld
